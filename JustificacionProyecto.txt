@@ -1,0 +1,7 @@
+En este proyecto de una aplicación de dibujo, la interfaz cuenta con un lienzo amplio que permite a los usuarios plasmar sus ideas.
+
+Entre sus principales funcionalidades, la app incorpora un selector de color que permite ajustar la tonalidad, saturación y brillo,
+ofreciendo una amplia gama cromática para una mayor personalización. Además, incluye un control dinámico del tamaño del pincel, facilitando la creación de trazos finos
+o gruesos según las necesidades del usuario.
+
+La aplicación permite guardar las creaciones en la galería, compartirlas directamente desde la app y restablecer el lienzo con un solo botón. 
